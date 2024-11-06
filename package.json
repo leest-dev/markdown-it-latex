@@ -14,20 +14,20 @@
   "author": "Tyler Long <tyler4long@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.1",
-    "css-loader": "^0.28.7",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.2.1",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^7.1.2",
     "extract-text-webpack-plugin": "^3.0.2",
-    "markdown-it": "^8.4.0",
-    "standard": "^10.0.3",
-    "style-loader": "^0.19.1",
-    "webpack": "^3.10.0",
-    "webpack-node-externals": "^1.6.0",
-    "yarn-upgrade-all": "^0.2.0"
+    "markdown-it": "^14.1.0",
+    "standard": "^17.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.96.1",
+    "webpack-node-externals": "^3.0.0",
+    "yarn-upgrade-all": "^0.7.4"
   },
   "dependencies": {
-    "asciimath-to-latex": "^0.3.2",
+    "asciimath-to-latex": "^0.5.1",
     "katex": "^0.16.11"
   }
 }
